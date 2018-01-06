@@ -1,0 +1,16 @@
+{
+  "name": "vue-c-generator",
+  "version": "0.0.1",
+  "preferGlobal": true,
+  "bin":{
+    "vuec": "./bin/index.js"
+  },
+  "description": "A vue cli component generator for the webpack template",
+  "main": "bin/index.js",
+  "author": "julianH99",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "commander": "^2.12.2"
+  }
+}
