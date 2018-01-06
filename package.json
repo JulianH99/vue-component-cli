@@ -8,6 +8,10 @@
   "description": "A vue cli component generator for the webpack template",
   "main": "bin/index.js",
   "author": "julianH99",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JulianH99/vue-component-cli"
+  },
   "license": "MIT",
   "dependencies": {
     "chalk": "^2.3.0",
